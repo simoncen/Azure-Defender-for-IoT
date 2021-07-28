@@ -1,5 +1,7 @@
 # Azure-Defender-for-IoT
 Introduction and development guide of Microsoft's Azure Defender for IoT in simplified Chinese.
+![图片6](https://user-images.githubusercontent.com/56233967/127286472-508268e5-844b-4350-a9cd-15e372fcf9f2.png)
+
 
 ### PowerPoint Section Preview
 * 整体方案（Solution Selling)
